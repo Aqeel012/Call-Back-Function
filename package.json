@@ -1,0 +1,22 @@
+{
+  "name": "aqeels-callback-function",
+  "version": "1.0.0",
+  "description": "I created a call back function that counts the number of clicks for a button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aqeel012/Call-Back-Function.git"
+  },
+  "keywords": [
+    "CallBack-Function"
+  ],
+  "author": "Aqeel Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aqeel012/Call-Back-Function/issues"
+  },
+  "homepage": "https://github.com/Aqeel012/Call-Back-Function#readme"
+}
